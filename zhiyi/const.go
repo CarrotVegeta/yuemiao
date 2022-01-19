@@ -1,0 +1,8 @@
+package zhiyi
+
+const (
+	BaseURL = "https://cloud.cn2030.com/sc"
+	Info = "/wx/HandlerSubscribe.ashx"
+	Referer = "https://servicewechat.com/wx2c7f0f3c30d99445/92/page-frame.html"
+	Cookie = "JhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDI1NTUwNzAuODAxODI5MSwiZXhwIjoxNjQyNTU4NjcwLjgwMTgyOTEsInN1YiI6IllOVy5WSVAiLCJqdGkiOiIyMDIyMDExOTA5MTc1MCIsInZhbCI6IkRxb3JBUUlBQUFBUU5UQTVaRGt6TURVMFpHWmhOemMzTWh4dmNYSTFielZOYmxZdFZteHpUV2gwYmpSeVh6UXdNekJQV2toekFCeHZcclxuVlRJMldIUXhMVmxCVUd0U2JYVm5lVk5DZHpWVk1EZEdZVVpyRERZMExqWTBMakkwTXk0NU1nQUFBQUFBQUFBPSJ9.peMPRgmJqenPt0sLlS_CJYwZ1Kk-0LbGGNc9WSJa3Rw"
+)
